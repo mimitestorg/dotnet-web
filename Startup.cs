@@ -28,7 +28,7 @@ namespace web
 
             app.Run(async (context) =>
             {
-                await context.Response.WriteAsync("Hello World!2022dev");
+                await context.Response.WriteAsync("Hello DIS!2022dev");
             });
         }
     }
